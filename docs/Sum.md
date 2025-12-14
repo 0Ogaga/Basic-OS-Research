@@ -1,4 +1,4 @@
-This repository captures my successful attempt to build a very simple 16-bit real-mode operating system that boots from a floppy-disk image. The project is intentionally minimal, using only three files—Makefile, bootloader.asm, and kernel.asm—to demonstrate the core concepts behind how a computer starts executing code before any modern OS features exist.
+This repository captures my successful attempt to build a very simple 16-bit real-mode operating system that boots from a floppy-disk image. The project is minimal, using only three files—Makefile, bootloader.asm, and kernel.asm—to demonstrate the core concepts behind how a computer starts executing code before any modern OS features exist.
 
 Throughout this work, I learned how:
 
