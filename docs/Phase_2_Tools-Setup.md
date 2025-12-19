@@ -1,4 +1,4 @@
-**Phase 1: CONFIGURATION OF TOOLS**
+**Phase 2: CONFIGURATION OF TOOLS**
 --------------------
 This phase details the necessary steps taken to configure the development environment.You need about 2 GB of data to for the download process.
 
